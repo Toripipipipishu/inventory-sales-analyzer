@@ -1,0 +1,6 @@
+product_id,product_name,category,stock,monthly_sales,unit_price
+P001,Product_A,Accessory,25,40,2500
+P002,Product_B,Accessory,80,5,1800
+P003,Product_C,MainUnit,12,18,42000
+P004,Product_D,Parts,60,8,3200
+P005,Product_E,Parts,15,35,4500
